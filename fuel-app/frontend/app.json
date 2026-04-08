@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Fuel Expenses Logger",
+    "slug": "fuel-expenses-logger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4F46E5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fuelexpenseslogger.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F46E5"
+      },
+      "package": "com.fuelexpenseslogger.app"
+    },
+    "web": {
+    }
+  }
+}
